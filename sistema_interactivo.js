@@ -1,7 +1,7 @@
 //funcion para el nombre 
 function obtenerNombre() {
   let nombre = prompt("Ingresa tu nombre");
-   // Este siclo while se va a repetir hasta que los datos del nombre esten correctamente 
+   // Este ciclo while se va a repetir hasta que los datos del nombre esten correctamente 
   while (
     !nombre ||
     nombre.trim() === "" ||

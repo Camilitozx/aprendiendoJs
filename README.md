@@ -37,8 +37,7 @@ The interactive system captures user input through `prompt()` and validates that
 ## Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript (ES6+)
+- JavaScript 
 - Environment: Web browser (Chrome, Firefox, etc.)
 
 No additional frameworks are required. The project runs directly in the browser without the need for a server.

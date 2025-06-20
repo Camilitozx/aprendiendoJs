@@ -47,21 +47,17 @@ No se requieren frameworks adicionales. El proyecto se ejecuta directamente en e
 
 1. Clona o descarga este repositorio.
 2. Asegúrate de que los archivos estén organizados así:
-## Reflexión Personal
 
-### ¿Qué aspectos del proceso consideré más accesibles o fluidos para mí?
+##Reflexión Personal
+###¿Qué aspectos del proceso consideré más accesibles o fluidos para mí?
+Trabajar con condicionales fue, para mí, como caminar por una calle que ya me sabía de memoria. Ya lo había manejado en Python, así que al verlo en JavaScript fue como decir: “esto ya lo conozco, vamos al grano”. Esa parte fluyó sin mucho enredo.
 
-Trabajar con condicionales fue, para mí, como encontrar una calle conocida en una ciudad nueva. Ya había recorrido ese camino en Python, así que adaptarlo a JavaScript no representó mayor dificultad.
+###¿Qué elementos representaron un mayor nivel de desafío y por qué?
+Validar que el nombre no tuviera números fue otra historia. Uno pensaría que es fácil, pero la cosa se complica cuando te toca entender expresiones regulares. Fue como si el código hablara en otro idioma. Me tocó leer, probar, y hasta pelear un poco con el navegador hasta que al fin salió.
 
-### ¿Qué elementos representaron un mayor nivel de desafío y por qué?
+###¿Qué estrategias implementé para superar los obstáculos que se presentaron durante el proceso?
+Nada como la práctica. Me senté a ensayar con distintos ejemplos, revisé documentación y fui entendiendo poco a poco cómo aplicar cada validación. Al final, entre prueba y error, el proceso se fue volviendo más claro.
 
-Validar que el nombre no tuviera números fue más complejo de lo que parecía. En teoría, suena simple; en la práctica, lidiar con expresiones regulares fue como intentar traducir un idioma técnico a algo humano. Lo logré, pero no sin ensayo y error.
-
-### ¿Qué estrategias implementé para superar los obstáculos que se presentaron durante el proceso?
-
-Decidí practicar y experimentar. Probé diferentes formas de validar el nombre, consulté documentación y comparé ejemplos. No fue inmediato, pero repetir el proceso me ayudó a entenderlo desde la lógica y no solo desde la sintaxis.
-
-### ¿Qué conceptos o procedimientos aún no comprendo completamente y en qué aspectos específicos necesitaría orientación adicional?
-
-Me cuesta encontrar un equilibrio entre escribir código funcional y mantenerlo limpio. A veces, lo que resuelve un problema lo hace de forma poco elegante. Me vendría bien una mejor guía sobre cómo estructurar validaciones sin caer en repeticiones o código innecesario.
+###¿Qué conceptos o procedimientos aún no comprendo completamente y en qué aspectos específicos necesitaría orientación adicional?
+A veces me enredo entre tener un código que funcione y uno que se vea limpio. Es decir, puede que corra bien, pero visualmente parece una empanada desbaratada. Me gustaría tener más claridad sobre cómo organizar mejor esas validaciones, sin repetir tanto y dejando todo más bonito y entendible.
 

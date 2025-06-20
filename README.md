@@ -49,3 +49,16 @@ No additional frameworks are required. The project runs directly in the browser 
 1. Clone or download this repository.
 2. Make sure the files are organized as follows:
 
+
+# ¿Qué aspectos del proceso consideré más accesibles o fluidos para mí?
+Trabajar con condicionales fue, para mí, como encontrar una calle conocida en una ciudad nueva. Ya había recorrido ese camino en Python, así que adaptarlo a JavaScript no representó mayor dificultad.
+
+# ¿Qué elementos representaron un mayor nivel de desafío y por qué?
+Validar que el nombre no tuviera números fue más complejo de lo que parecía. En teoría, suena simple; en la práctica, lidiar con expresiones regulares fue como intentar traducir un idioma técnico a algo humano. Lo logré, pero no sin ensayo y error.
+
+# ¿Qué estrategias implementé para superar los obstáculos que se presentaron durante el proceso?
+Decidí practicar y experimentar. Probé diferentes formas de validar el nombre, consulté documentación y comparé ejemplos. No fue inmediato, pero repetir el proceso me ayudó a entenderlo desde la lógica y no solo desde la sintaxis.
+
+# ¿Qué conceptos o procedimientos aún no comprendo completamente y en qué aspectos específicos necesitaría orientación adicional?
+Me cuesta encontrar un equilibrio entre escribir código funcional y mantenerlo limpio. A veces, lo que resuelve un problema lo hace de forma poco elegante. Me vendría bien una mejor guía sobre cómo estructurar validaciones sin caer en repeticiones o código innecesario.
+
